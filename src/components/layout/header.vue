@@ -71,6 +71,7 @@ export default class Header extends Vue {
     input {
       height: 20px;
       font-size: 12px;
+      color: var(--text-color);
       padding: 0 8px;
       background-color: transparent;
     }
